@@ -3,7 +3,7 @@ layout: page
 title: Hello World!
 tagline: Supporting tagline
 ---
-
+<div class="span4">
 <div id="home">
   <h1>Blog Posts</h1>
     <ul class="posts">
@@ -12,4 +12,8 @@ tagline: Supporting tagline
      {% endfor %}
    </ul>
 </div>
+</div>
 
+<div class="span8">
+content
+</div>
