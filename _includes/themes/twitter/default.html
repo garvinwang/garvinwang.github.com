@@ -25,8 +25,8 @@
   </head>
 
   <body>
-
-    <div class="navbar">
+	
+    <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
           <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
@@ -38,20 +38,13 @@
         </div>
       </div>
     </div>
+	
+	<div style="height:50px;">&nbsp;</div>
 
-    <div class="row"><div class="container">
-        <div class="span8"><div class="content">
-        {{ content }}
-      </div>
-    </div>
-        <div class="span4"><h1>Blog Posts</h1>
-    <ul class="posts">
-      {% for post in site.posts %}
-       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-     {% endfor %}
-   </ul>
-</div>
-    </div>
+    <div class="row">
+		<div class="container">
+			{{ content }}
+		</div>
     </div>
 
 
