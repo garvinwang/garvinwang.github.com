@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 首页
+title: 王海的个人网站首页
 tagline: 有中文了
 ---
 
