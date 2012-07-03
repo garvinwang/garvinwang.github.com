@@ -12,6 +12,21 @@ pygments: true
 #
 title : garvin wang
 tagline: Site Tagline
+
+topbar:
+  #- 
+  #  url : '/footmark/index.html'
+  #  title : 'Footmark'
+  - 
+    url : '/tech.html'
+    title : '技术'
+  -
+    url : '/manage.html'
+    title : '管理'
+  -
+    url : '/pages.html'
+    title : '所有页面'
+
 author :
   name : Garvin Wang
   email : garvin.wang@gmail.com

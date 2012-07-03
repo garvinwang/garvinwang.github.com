@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 如何提高团队工作效率
+title: 濡備綍鎻愰珮鍥㈤槦宸ヤ綔鏁堢巼
 description: ""
-category: manage
+category: 
 tags: []
 ---
 
