@@ -19,10 +19,10 @@ topbar:
   #  title : 'Footmark'
   - 
     url : '/tech.html'
-    title : '"∨技术"'
+    title : '"$技术"'
   -
     url : '/manage.html'
-    title : '"∨管理"'
+    title : '"$管理"'
   #-
   #  url : '/pages.html'
   #  title : '所有页面'
