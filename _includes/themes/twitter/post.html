@@ -6,39 +6,22 @@
 	<div class="well">
     {{ content }}
 	<!-- PingLun.La Begin -->
-<div id="pinglunla_here"></div><a href="http://www.pinglunla.com/" id="logo-pinglunla">评论啦</a><script type="text/javascript" src="http://s2.pinglun.la/md/pinglun.la.js" charset="utf-8"></script>
-<!-- PingLun.La End -->
+	<div id="pinglunla_here"></div><a href="http://www.pinglunla.com/" id="logo-pinglunla">评论啦</a><script type="text/javascript" src="http://s2.pinglun.la/md/pinglun.la.js" charset="utf-8"></script>
+	<!-- PingLun.La End -->
 	</div>
 	<hr>
-
-
-
-	<script type="text/javascript">
-(function(){
-var url = "http://widget.weibo.com/distribution/comments.php?width=0&url=auto&brandline=y&fontsize=12&ralateuid=1652056523&appkey=3908571860&dpc=1";
-url = url.replace("url=auto", "url=" + document.URL); 
-document.write('<iframe id="WBCommentFrame" src="' + url + '" scrolling="no" frameborder="0" style="width:100%"></iframe>');
-})();
-</script>
-<script src="http://tjs.sjs.sinajs.cn/open/widget/js/widget/comment.js" type="text/javascript" charset="utf-8"></script>
-<script type="text/javascript">
-window.WBComment.init({
-    "id": "WBCommentFrame"
-});
-</script>
-    <hr>
     <div class="pagination">
       <ul>
       {% if page.previous %}
-        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
+        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; 上一篇</a></li>
       {% else %}
-        <li class="prev disabled"><a>&larr; Previous</a></li>
+        <li class="prev disabled"><a>&larr; 上一篇</a></li>
       {% endif %}
-        <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
+        <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">所有文章</a></li>
       {% if page.next %}
-        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
+        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">下一篇 &rarr;</a></li>
       {% else %}
-        <li class="next disabled"><a>Next &rarr;</a>
+        <li class="next disabled"><a>下一篇 &rarr;</a>
       {% endif %}
       </ul>
     </div>
