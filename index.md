@@ -29,7 +29,7 @@ tagline: 有中文了
 	</div>
 	<ul class="posts">
 	  {% for post in site.posts %}
-	   <li><strong><a href="{{ post.url }}">{{ post.title }}</a></strong>...{{ post.date  | date: "%Y-%m-%d "}}</li>
+	   <li><h3><small> {{ post.date  | date: "%Y-%m-%d "}}：</small><a href="{{ post.url }}">{{ post.title }}</a></h3></li>
 	 {% endfor %}
 	</ul>
 </div>
