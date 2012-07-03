@@ -23,9 +23,9 @@ topbar:
   -
     url : '/manage.html'
     title : '管理'
-  -
-    url : '/pages.html'
-    title : '所有页面'
+  #-
+  #  url : '/pages.html'
+  #  title : '所有页面'
 
 author :
   name : Garvin Wang
