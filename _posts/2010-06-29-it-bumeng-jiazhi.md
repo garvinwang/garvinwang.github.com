@@ -6,6 +6,8 @@ category: manage
 tags: [IT部门,价值]
 ---
 
+![Alt it价值](http://i3.6.cn/cvbnm/fa/d1/40/e2ba73d0a3eb21b53997c585f7d3e1c8.jpg)
+
 “只会花钱，不会赚钱”、“可有可无”、“成本过高”。。。
 
 
