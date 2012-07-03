@@ -10,7 +10,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : garvin wang
+title : println 'I am 王海.'; def 网站导航 << 
 tagline: Site Tagline
 
 topbar:
@@ -19,10 +19,10 @@ topbar:
   #  title : 'Footmark'
   - 
     url : '/tech.html'
-    title : '技术'
+    title : '"∨技术"'
   -
     url : '/manage.html'
-    title : '管理'
+    title : '"∨管理"'
   #-
   #  url : '/pages.html'
   #  title : '所有页面'
