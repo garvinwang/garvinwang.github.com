@@ -1,6 +1,6 @@
 ---
 layout: post
-category : lessons
+category : tech
 title: 个人免费站点建设方案
 ---
 

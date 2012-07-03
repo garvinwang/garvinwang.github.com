@@ -1,10 +1,11 @@
 ---
 layout: page
-title : 文档
+title : 管理
 header : Post Archive
 group: navigation
 ---
 {% include JB/setup %}
 
-{% assign posts_collate = site.posts %}
+{% assign posts_collate = site.categories.manage %} 
+
 {% include JB/posts_collate %}
