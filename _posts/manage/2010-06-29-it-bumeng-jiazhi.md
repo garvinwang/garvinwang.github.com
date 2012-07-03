@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IT部门在企业中的的价值所在
-description: ""
+description: "“只会花钱，不会赚钱”、“可有可无”、“成本过高”。。。这些经常出现在非IT企业中用来形容IT部门的词语，在IT人看来多少有些不够专业，不够了解IT行业，但在非IT人员看来却会觉得有些贴切。"
 category: manage
 tags: [IT部门,价值]
 ---

@@ -2,6 +2,7 @@
 layout: post
 category : tech
 title: 个人免费站点建设方案
+description: "GitHub是基于git技术的文档管理站点，非常的实用，并且可以基于其服务免费建立个人的站点，详细介绍请参考文档 GotGitHub"
 ---
 
 **[GitHub](http://www.github.com)**是基于git技术的文档管理站点，非常的实用，并且可以基于其服务免费建立个人的站点，详细介绍请参考文档 **[GotGitHub](http://www.worldhello.net/gotgithub/)**

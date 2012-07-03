@@ -18,7 +18,7 @@ weight : 5
 	<div class="span12">
 		<div class="span8">
 			<div class="row">
-				<div class="alert alert-sucess"><h2>最新文章</h2></div>
+				<div class="alert alert-sucess"><h2>最新技术文章</h2></div>
 			</div>
 			{% include JB/posts_collate %}
 		</div>
