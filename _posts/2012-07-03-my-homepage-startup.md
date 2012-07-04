@@ -10,4 +10,4 @@ tags: []
 
 来张首页图片
 
-![alt 网站首页](http://photry-production-virginia.s3.amazonaws.com/532/689/25451/large.jpeg?AWSAccessKeyId=AKIAIFWXMUQTJZO2WGXA&Expires=1341314959&Signature=PK6G78xLAiqQRnHQiU622hhfn0k%3D)
+![alt 网站首页](http://photo2.bababian.com/upload6/20120704/CD2145EC2A863D27A5E9C2CF9B1A75E3.jpg)
