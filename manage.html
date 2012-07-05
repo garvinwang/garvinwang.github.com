@@ -6,6 +6,7 @@ group: navigation
 weight : 1
 ---
 
+<div class="row">
 <div class="alert alert-info"">
 	<h3>记录关于管理方面的思考</h3> 
 	<p>管理是一种实践，其本质不在于“知”而在于“行”；其验证不在于逻辑，而在于成果；其唯一权威就是成就。</p>
@@ -16,25 +17,36 @@ weight : 1
 		<small>领导者的唯一定义就是其后面有追随者。一些人是思想家，一些人是预言家，这些人都很重要，但是，没有追随者，就不会有领导者。</small>
 	</blockquote>
 </div>
-
-{% include JB/setup %}
+</div>
 
 {% assign posts_collate = site.categories.manage %} 
 
 <div class="row">
-	<div class="span12">
 		<div class="span8">
 			<div class="row">
 				<div class="alert alert-sucess"><h2>最新文章</h2></div>
 			</div>
 			{% include JB/posts_collate %}
 		</div>
-		<div class="span4" style="padding-left:10px;width:240px;">
-			<div class="row">
-				<!--
-				<div class="alert alert-sucess" style="width:240px;"><h2>热门</h2></div>
-				-->
+		<div class="span4">
+			<!-- amazon ads -->
+			<div>
+				<iframe src="http://rcm-cn.amazon.cn/e/cm?t=wanghai1024-23&o=28&p=12&l=ur1&category=books&banner=1K3RQR56FPEJFEZ8R9R2&f=ifr" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+			</div>
+
+			<!-- google ads -->
+			<div>
+				<script type="text/javascript"><!--
+				google_ad_client = "ca-pub-6141968478897744";
+				/* aritcle list page ad */
+				google_ad_slot = "0289125930";
+				google_ad_width = 300;
+				google_ad_height = 250;
+				//-->
+				</script>
+				<script type="text/javascript"
+				src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+				</script>
 			</div>
 		</div>
-	</div>
 </div>

@@ -6,28 +6,43 @@ group: navigation
 weight : 5
 ---
 
+<div class="row">
 <div class="alert alert-info"">
 	<h3>在技术的领域里飞翔</h3> 
 	<p>['C', 'C++', 'Java', 'Ruby', 'Groovy', 'Go', 'Javascrsipt'].each { language -> println "Hello $language World!"}</p>
 </div>
-
-{% include JB/setup %}
+</div>
 
 {% assign posts_collate = site.categories.tech %} 
 <div class="row">
-	<div class="span12">
 		<div class="span8">
 			<div class="row">
 				<div class="alert alert-sucess"><h2>最新文章</h2></div>
 			</div>
 			{% include JB/posts_collate %}
 		</div>
-		<div class="span4" style="padding-left:10px;width:240px;">
-			<div class="row">
-				<!--
-				<div class="alert alert-sucess" style="width:240px;"><h2>热门</h2></div>
-				-->
+
+		<div class="span4">
+
+			<!-- amazon ads -->
+			<div>
+				<iframe src="http://rcm-cn.amazon.cn/e/cm?t=wanghai1024-23&o=28&p=12&l=ur1&category=books&banner=1K3RQR56FPEJFEZ8R9R2&f=ifr" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 			</div>
+
+			<!-- google ads -->
+			<div>
+				<script type="text/javascript"><!--
+				google_ad_client = "ca-pub-6141968478897744";
+				/* aritcle list page ad */
+				google_ad_slot = "0289125930";
+				google_ad_width = 300;
+				google_ad_height = 250;
+				//-->
+				</script>
+				<script type="text/javascript"
+				src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+				</script>
+			</div>
+
 		</div>
-	</div>
 </div>
