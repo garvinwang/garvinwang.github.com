@@ -31,7 +31,7 @@ Usage:
     {% endif %}
 
 
-    <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+    <h3>$ <a href="{{ BASE_PATH }}{{ post.url }}"> {{ post.title }}</a></h3>
     <span class="label" style="float:right; margin-left:10px; margin-right:5px; background-color:#5bc0de; font-weight: 180;">{{ post.date | date: "%Y-%m-%d" }}</span>
     <div class="thumbnail" style="background-color: #FFFFFF;">
     <p style="font-size: 13px;line-height: 22px;font-weight: normal;"><strong>摘要：</strong>{{post.description}}</p>
