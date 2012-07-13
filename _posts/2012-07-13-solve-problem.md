@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 学习解决问题的方法：《你的灯亮着吗？》读书摘要与反思
-description: ""
+description: "如何去解决问题，找到问题的解决方法"
 category: manage
 published: true
 ---
