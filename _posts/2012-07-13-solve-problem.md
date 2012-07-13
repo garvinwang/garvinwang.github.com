@@ -3,7 +3,7 @@ layout: post
 title: 学习解决问题的方法：《你的灯亮着吗？》读书摘要与反思
 description: ""
 category: manage
-published: false
+published: true
 ---
 ### 【“问题”是什么？】
 真正的问题是我们真实的体验与我们原本的期待之间的差距；差距越大，所面临的问题也越大。
