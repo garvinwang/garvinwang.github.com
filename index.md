@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 王海的个人网站首页
-tagline: 有中文了
+title: 首页
+tagline: 
 ---
 
 <div class="row">
