@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "价值观"
+title: "一个程序员的价值观"
 description: "态度决定一切，有强烈的团队精神，懂得时间管理，勇于创新，简单为上，用户体验为中心，追求完美"
 category: manage
 published: true
