@@ -3,7 +3,7 @@ layout: post
 title: 个人时间管理工具“todo list everyday“
 description: "为了能够更系统、准确的统计一下每天的工作时间是如何使用的，以便自己及时总结、反省、调整"
 category: tech
-tags: [创新]
+tags: [时间管理]
 published: true
 ---
 
