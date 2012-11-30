@@ -7,7 +7,6 @@ tags: [groovy grails]
 published: true
 ---
 
-# Groovy/Grails 资源网站收藏列表
 
  [Groovy Zone | Everything for the Groovy &amp; Grails developer](http://groovy.dzone.com/) 
  
